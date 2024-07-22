@@ -1,6 +1,6 @@
 //
 //
-//  Created by peace and love on 2023/2/9.
+//  Created by Peace-prevails on 2023/2/9.
 //
 
 #include "prompt.h"
